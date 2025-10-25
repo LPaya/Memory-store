@@ -411,7 +411,7 @@ h5 {
     }
 
     #name {
-        font-size: 28px;
+        font-size: 26px;
     }
 
     .logo {
@@ -530,7 +530,7 @@ h5 {
     }
 
     #name {
-        font-size: 26px;
+        font-size: max(5.42vw, 22px);
     }
 
     .logo {
@@ -610,4 +610,5 @@ h5 {
     footer ul {
         width: 90%;
     }
+
 }
